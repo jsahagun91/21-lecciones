@@ -1,0 +1,11 @@
+# Capítulo I
+
+=== Filosofía
+
+----
+'El ratón la miró con cierta curiosidad y le pareció que le guiñaba uno de sus ojitos, pero no dijo nada.'
+----
+
+Mirando a Bitcoin superficialmente, uno podría concluir que es lento, derrochador, innecesariamente redundante y demasiado paranoico. Mirando a Bitcoin con curiosidad, uno podría descubrir que las cosas no son lo que parecen a primera vista.
+
+Bitcoin tiene una forma de tomar sus suposiciones y darles la vuelta. Después de un tiempo, justo cuando estabas a punto de volver a sentirte cómodo, Bitcoin atravesará la pared como un toro en una tienda de porcelana y hará añicos tus suposiciones una vez más.
