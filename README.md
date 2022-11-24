@@ -1,2 +1,3 @@
-# 21-lecciones
-Traducción de '21 Lecciones' por Der Gigi
+# '21 Lecciones' por Der Gigi
+
+Traduccion en español por Jos3 Sahagun
