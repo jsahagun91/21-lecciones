@@ -10,4 +10,6 @@ Mirando a Bitcoin superficialmente, uno podría concluir que es lento, derrochad
 
 Bitcoin tiene una forma de tomar sus suposiciones y darles la vuelta. Después de un tiempo, justo cuando estabas a punto de volver a sentirte cómodo, Bitcoin atravesará la pared como un toro en una tienda de porcelana y hará añicos tus suposiciones una vez más.
 
+[[bitcoin-monks]]
+.Blind monks examining the Bitcoin bull
 image::images/21lc_0101.png["Blind monks examining the Bitcoin bull"]
