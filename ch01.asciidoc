@@ -13,3 +13,5 @@ Bitcoin tiene una forma de tomar sus suposiciones y darles la vuelta. Después d
 [[bitcoin-monks]]
 .Blind monks examining the Bitcoin bull
 image::images/21lc_0101.png["Blind monks examining the Bitcoin bull"]
+
+Bitcoin es hijo de muchas disciplinas. Como monjes ciegos que examinan un elefante, todos los que se acercan a esta novedosa tecnología lo hacen desde un ángulo diferente. Y todos llegarán a diferentes conclusiones sobre la naturaleza de la bestia.
