@@ -12,3 +12,15 @@ y magulló su alma.'
 ----
 
 Caer por la madriguera del conejo de Bitcoin es una experiencia extraña. Como muchos otros, siento que he aprendido más en los últimos años estudiando Bitcoin que durante dos décadas de educación formal.
+
+Las siguientes lecciones son una destilación de lo que he aprendido. Publicado por primera vez como una serie de artículos titulada https://github.com/jsahagun91/21-lecciones/blob/main/prefacio.asciidoc["What I've Learned from Bitcoin"], lo que sigue puede verse como una segunda edición de la serie original.
+
+Al igual que Bitcoin, estas lecciones no son algo estático. Planeo trabajar en ellos periódicamente, lanzando versiones actualizadas y material adicional en el futuro.
+
+A diferencia de Bitcoin, las versiones futuras de este proyecto no tienen que ser compatibles con versiones anteriores. Algunas lecciones pueden extenderse, otras pueden reelaborarse o reemplazarse. Espero que una versión futura sea algo que puedas tener en tus manos, pero no quiero prometer nada todavía.
+
+Bitcoin es un maestro inagotable, por lo que no pretendo que estas lecciones abarquen todo o sean completas. Son un reflejo de mi viaje personal por la madriguera del conejo. Hay muchas más lecciones que aprender, y cada persona aprenderá algo diferente al ingresar al mundo de Bitcoin.
+
+Espero que encuentre útiles estas lecciones y que el proceso de aprenderlas leyendo no sea tan arduo y doloroso como aprenderlas de primera mano.
+
+https://github.com/jsahagun91/21-lecciones/blob/main/prefacio.asciidoc[->]
