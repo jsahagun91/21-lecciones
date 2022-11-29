@@ -23,4 +23,4 @@ Bitcoin es un maestro inagotable, por lo que no pretendo que estas lecciones aba
 
 Espero que encuentre útiles estas lecciones y que el proceso de aprenderlas leyendo no sea tan arduo y doloroso como aprenderlas de primera mano.
 
-https://github.com/jsahagun91/21-lecciones/blob/main/prefacio.asciidoc[->]
+https://github.com/jsahagun91/21-lecciones/blob/main/Introduccion.asciidoc[Introduccíon->]
