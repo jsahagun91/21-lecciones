@@ -18,7 +18,7 @@ Bitcoin es hijo de muchas disciplinas. Como monjes ciegos que examinan un elefan
 
 Las siguientes lecciones tratan sobre algunas de mis suposiciones que Bitcoin destruyó y las conclusiones a las que llegué. Las cuestiones filosóficas de inmutabilidad, escasez, localidad e identidad se exploran en las primeras cuatro lecciones.
 
-    > Lección 1: Inmutabilidad y cambio
+    > https://github.com/jsahagun91/21-lecciones/blob/main/prefacio.asciidoc[Lección 1: Inmutabilidad y cambio]
     > Lección 2: La escasez de la escasez
     > Lección 3: Replicación y localidad
     > Lección 4: El problema de la identidad
