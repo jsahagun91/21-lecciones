@@ -20,11 +20,11 @@ Las siguientes lecciones tratan sobre algunas de mis suposiciones que Bitcoin de
 
     * https://github.com/jsahagun91/21-lecciones/blob/main/prefacio.asciidoc[Lección 1: Inmutabilidad y cambio]
     * Lección 2: La escasez de la escasez
-    > Lección 3: Replicación y localidad
-    > Lección 4: El problema de la identidad
-    > Lección 5: Una concepción inmaculada
-    > Lección 6: El poder de la libertad de expresión
-    > Lección 7: Los límites del conocimiento
+    * Lección 3: Replicación y localidad
+    * Lección 4: El problema de la identidad
+    * Lección 5: Una concepción inmaculada
+    * Lección 6: El poder de la libertad de expresión
+    * Lección 7: Los límites del conocimiento
 
 La Lección 5 explora cómo la historia del origen de Bitcoin no solo es fascinante sino absolutamente esencial para un sistema sin líderes. Las dos últimas lecciones de este capítulo exploran el poder de la libertad de expresión y los límites de nuestro conocimiento individual, reflejados en la sorprendente profundidad de la madriguera del conejo de Bitcoin.
 
