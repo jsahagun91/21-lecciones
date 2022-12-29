@@ -10,3 +10,5 @@
 En Octubre del 2018, Arjun Balaji hizo la pregunta inocua: https://twitter.com/arjunblj/status/1050073234719293440[¿Qué has aprendido de Bitcoin?] Después de intentar responder a esta pregunta en un breve tuit y fallar miserablemente, me di cuenta de que las cosas que aprendí son demasiado numerosas para responderlas rápidamente, si es que las respondo.
 
 Las cosas que he aprendido son, obviamente, sobre Bitcoin, o al menos relacionadas con él. Sin embargo, aunque se explican algunos de los mecanismos internos de Bitcoin, las siguientes lecciones no son una explicación de cómo funciona Bitcoin o qué es, sin embargo, podrían ayudar a explorar algunas de las cosas que toca Bitcoin: cuestiones filosóficas, realidades económicas, e innovaciones tecnológicas.
+
+https://github.com/jsahagun91/21-lecciones/blob/main/ch01.asciidoc[Capítulo 1 ->]
