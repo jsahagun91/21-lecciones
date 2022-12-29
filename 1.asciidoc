@@ -1,5 +1,7 @@
-Lección 1
+# Lección 1
 
-Inmutabilidad y cambio
+=== Inmutabilidad y cambio
 
-I wonder if I've been changed in the night. Let me think. Was I the same when I got up this morning? I almost think I can remember feeling a little different. But if I'm not the same, the next question is 'Who in the world am I?' Ah, that's the great puzzle!
+----
+Me pregunto si me han cambiado en la noche. Déjame pensar. ¿Estaba yo igual cuando me levanté esta mañana? Casi creo que puedo recordar sentirme un poco diferente. Pero si no soy el mismo, la siguiente pregunta es '¿Quién en el mundo soy yo?' ¡Ah, ese es el gran rompecabezas!
+----
