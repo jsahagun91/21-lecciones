@@ -15,3 +15,17 @@ Bitcoin tiene una forma de tomar sus suposiciones y darles la vuelta. Después d
 image::images/21lc_0101.png["Blind monks examining the Bitcoin bull"]
 
 Bitcoin es hijo de muchas disciplinas. Como monjes ciegos que examinan un elefante, todos los que se acercan a esta novedosa tecnología lo hacen desde un ángulo diferente. Y todos llegarán a diferentes conclusiones sobre la naturaleza de la bestia.
+
+Las siguientes lecciones tratan sobre algunas de mis suposiciones que Bitcoin destruyó y las conclusiones a las que llegué. Las cuestiones filosóficas de inmutabilidad, escasez, localidad e identidad se exploran en las primeras cuatro lecciones.
+
+    > Lección 1: Inmutabilidad y cambio
+    > Lección 2: La escasez de la escasez
+    > Lección 3: Replicación y localidad
+    > Lección 4: El problema de la identidad
+    > Lección 5: Una concepción inmaculada
+    > Lección 6: El poder de la libertad de expresión
+    > Lección 7: Los límites del conocimiento
+
+La Lección 5 explora cómo la historia del origen de Bitcoin no solo es fascinante sino absolutamente esencial para un sistema sin líderes. Las dos últimas lecciones de este capítulo exploran el poder de la libertad de expresión y los límites de nuestro conocimiento individual, reflejados en la sorprendente profundidad de la madriguera del conejo de Bitcoin.
+
+Espero que encuentre el mundo de Bitcoin tan educativo, fascinante y entretenido como yo lo encontré y sigo encontrándolo. Te invito a seguir al conejo blanco y explorar las profundidades de esta madriguera. Ahora sostenga su reloj de bolsillo, bájese y disfrute de la caída.
