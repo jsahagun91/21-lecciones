@@ -11,4 +11,8 @@ En Octubre del 2018, Arjun Balaji hizo la pregunta inocua: https://twitter.com/a
 
 Las cosas que he aprendido son, obviamente, sobre Bitcoin, o al menos relacionadas con él. Sin embargo, aunque se explican algunos de los mecanismos internos de Bitcoin, las siguientes lecciones no son una explicación de cómo funciona Bitcoin o qué es, sin embargo, podrían ayudar a explorar algunas de las cosas que toca Bitcoin: cuestiones filosóficas, realidades económicas, e innovaciones tecnológicas.
 
+Las 21 lecciones están estructuradas en paquetes de siete, lo que da como resultado tres capítulos. Cada capítulo mira a Bitcoin a través de una lente diferente, extrayendo las lecciones que se pueden aprender al inspeccionar esta extraña red desde un ángulo diferente.
+
+
+
 https://github.com/jsahagun91/21-lecciones/blob/main/ch01.asciidoc[Capítulo 1 ->]
