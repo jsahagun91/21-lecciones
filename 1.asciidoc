@@ -3,5 +3,7 @@
 === Inmutabilidad y cambio
 
 ----
-Me pregunto si me han cambiado en la noche. Déjame pensar. ¿Estaba yo igual cuando me levanté esta mañana? Casi creo que puedo recordar sentirme un poco diferente. Pero si no soy el mismo, la siguiente pregunta es '¿Quién en el mundo soy yo?' ¡Ah, ese es el gran rompecabezas!
+Me pregunto si me han cambiado en la noche. Déjame pensar. 
+¿Estaba yo igual cuando me levanté esta mañana? Casi creo que puedo recordar sentirme un poco diferente. 
+Pero si no soy el mismo, la siguiente pregunta es '¿Quién en el mundo soy yo?' ¡Ah, ese es el gran rompecabezas!
 ----
